@@ -1,0 +1,1 @@
+import{a as t,b as e,o}from"./entry.cbb55ae9.js";const c={},n={class:"row g-0 app-font justify-content-center",style:{"padding-bottom":"65px"}};function s(r,a){return o(),e("div",n)}const f=t(c,[["render",s]]);export{f as default};
