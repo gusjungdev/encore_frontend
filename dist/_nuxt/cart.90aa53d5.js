@@ -1,0 +1,1 @@
+import t from"./Cart.480aed40.js";import{a as r,b as e,m as c,o as n}from"./entry.1af96281.js";import"./Cart.vue.65e5df8a.js";import"./composables.6ff7ace0.js";import"./CallAPI.5d19bc28.js";import"./axios.71f0d3ca.js";const _={},a={class:"row g-0 app-font"};function s(m,p){const o=t;return n(),e("div",a,[c(o)])}const h=r(_,[["render",s]]);export{h as default};
