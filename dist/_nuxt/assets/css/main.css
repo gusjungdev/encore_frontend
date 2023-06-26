@@ -135,6 +135,10 @@
     color: #BDBDBD;
 }
 
+.cl-sky {
+    color: #2D9CDB;
+}
+
 .cl-text-normal {
     color:#4F4F4F;
 }
@@ -230,8 +234,8 @@
  }
 
  .product_item_frame {
-    margin-left: 0.5em; 
-    margin-right: 0.5em; 
+    margin-left: 0.6em; 
+    margin-right: 0.6em; 
     margin-top: 0px; 
     border-radius: 0px; 
     border: 0;
